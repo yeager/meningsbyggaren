@@ -28,7 +28,7 @@ WORD_CATEGORIES = [
 class MainWindow(Adw.ApplicationWindow):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.set_title(_('Meningsbyggaren'))
+        self.set_title(_('Sentence Builder'))
         self.set_default_size(600, 500)
         self._sentence = []
         
@@ -136,7 +136,7 @@ class App(Adw.Application):
         win = MainWindow(application=app)
         win.present()
     def _on_about(self, a, p):
-        d = Adw.AboutDialog(application_name=_('Meningsbyggaren'), application_icon=APP_ID,
+        d = Adw.AboutDialog(application_name=_('Sentence Builder'), application_icon=APP_ID,
             version=__version__, developer_name='Daniel Nylander',
             website='https://github.com/yeager/meningsbyggaren',
             license_type=Gtk.License.GPL_3_0,
