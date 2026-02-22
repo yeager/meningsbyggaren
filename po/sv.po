@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the meningsbyggaren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: meningsbyggaren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:18+0100\n"
+"PO-Revision-Date: 2026-02-22 16:22+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305240/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/meningsbyggaren/main.py:21
+msgid "People"
+msgstr "Personer"
+
+#: src/meningsbyggaren/main.py:21
+msgid "I"
+msgstr "Jag"
+
+#: src/meningsbyggaren/main.py:21
+msgid "You"
+msgstr "Du"
+
+#: src/meningsbyggaren/main.py:21
+msgid "Mom"
+msgstr "Mamma"
+
+#: src/meningsbyggaren/main.py:21
+msgid "Dad"
+msgstr "Pappa"
+
+#: src/meningsbyggaren/main.py:21
+msgid "Friend"
+msgstr "Vän"
+
+#: src/meningsbyggaren/main.py:22
+msgid "Actions"
+msgstr "Handlingar"
+
+#: src/meningsbyggaren/main.py:22
+msgid "want"
+msgstr "vill"
+
+#: src/meningsbyggaren/main.py:22
+msgid "eat"
+msgstr "äta"
+
+#: src/meningsbyggaren/main.py:22
+msgid "drink"
+msgstr "dricka"
+
+#: src/meningsbyggaren/main.py:22
+msgid "play"
+msgstr "leka"
+
+#: src/meningsbyggaren/main.py:22
+msgid "read"
+msgstr "läsa"
+
+#: src/meningsbyggaren/main.py:22
+msgid "go"
+msgstr "gå"
+
+#: src/meningsbyggaren/main.py:22
+msgid "sleep"
+msgstr "sova"
+
+#: src/meningsbyggaren/main.py:23
+msgid "Things"
+msgstr "Saker"
+
+#: src/meningsbyggaren/main.py:23
+msgid "food"
+msgstr "mat"
+
+#: src/meningsbyggaren/main.py:23
+msgid "water"
+msgstr "vatten"
+
+#: src/meningsbyggaren/main.py:23
+msgid "ball"
+msgstr "boll"
+
+#: src/meningsbyggaren/main.py:23
+msgid "book"
+msgstr "bok"
+
+#: src/meningsbyggaren/main.py:23
+msgid "toy"
+msgstr "leksak"
+
+#: src/meningsbyggaren/main.py:23
+msgid "car"
+msgstr "bil"
+
+#: src/meningsbyggaren/main.py:24
+msgid "Places"
+msgstr "Platser"
+
+#: src/meningsbyggaren/main.py:24
+msgid "home"
+msgstr "hemma"
+
+#: src/meningsbyggaren/main.py:24
+msgid "school"
+msgstr "skola"
+
+#: src/meningsbyggaren/main.py:24
+msgid "park"
+msgstr "park"
+
+#: src/meningsbyggaren/main.py:24
+msgid "store"
+msgstr "affär"
+
+#: src/meningsbyggaren/main.py:25
+msgid "Feelings"
+msgstr "Känslor"
+
+#: src/meningsbyggaren/main.py:25
+msgid "happy"
+msgstr "glad"
+
+#: src/meningsbyggaren/main.py:25
+msgid "sad"
+msgstr "ledsen"
+
+#: src/meningsbyggaren/main.py:25
+msgid "tired"
+msgstr "trött"
+
+#: src/meningsbyggaren/main.py:25
+msgid "hungry"
+msgstr "hungrig"
+
+#: src/meningsbyggaren/main.py:25
+msgid "thirsty"
+msgstr "törstig"
+
+#: src/meningsbyggaren/main.py:31 src/meningsbyggaren/main.py:139
+msgid "Meningsbyggaren"
+msgstr "Meningsbyggaren"
+
+#: src/meningsbyggaren/main.py:38 src/meningsbyggaren/main.py:100
+msgid "Clear"
+msgstr "Töm"
+
+#: src/meningsbyggaren/main.py:39
+msgid "About"
+msgstr "Om"
+
+#: src/meningsbyggaren/main.py:51 src/meningsbyggaren/main.py:126
+msgid "Tap words to build a sentence"
+msgstr "Tryck på ord för att bygga en mening"
+
+#: src/meningsbyggaren/main.py:95
+msgid "Undo"
+msgstr "Ångra"
+
+#: src/meningsbyggaren/main.py:143
+msgid "Build sentences with word cards"
+msgstr "Bygg meningar med ordkort"
