@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the meningsbyggaren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: meningsbyggaren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/meningsbyggaren/main.py:21
+msgid "People"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:21
+msgid "I"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:21
+msgid "You"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:21
+msgid "Mom"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:21
+msgid "Dad"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:21
+msgid "Friend"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "Actions"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "want"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "eat"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "drink"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "play"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "read"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "go"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:22
+msgid "sleep"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:23
+msgid "Things"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:23
+msgid "food"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:23
+msgid "water"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:23
+msgid "ball"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:23
+msgid "book"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:23
+msgid "toy"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:23
+msgid "car"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:24
+msgid "Places"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:24
+msgid "home"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:24
+msgid "school"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:24
+msgid "park"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:24
+msgid "store"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:25
+msgid "Feelings"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:25
+msgid "happy"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:25
+msgid "sad"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:25
+msgid "tired"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:25
+msgid "hungry"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:25
+msgid "thirsty"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:31 src/meningsbyggaren/main.py:139
+msgid "Meningsbyggaren"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:38 src/meningsbyggaren/main.py:100
+msgid "Clear"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:39
+msgid "About"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:51 src/meningsbyggaren/main.py:126
+msgid "Tap words to build a sentence"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:95
+msgid "Undo"
+msgstr ""
+
+#: src/meningsbyggaren/main.py:143
+msgid "Build sentences with word cards"
+msgstr ""

@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+[o:danielnylander:p:meningsbyggaren:r:meningsbyggaren-pot]
+file_filter = po/<lang>.po
+source_file = po/meningsbyggaren.pot
+source_lang = en
+type = PO

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=umeningsbyggaren
+Comment=Build sentences with symbols for children with language disorders
+Comment[sv]=Bygg meningar med symboler
+Exec=meningsbyggaren
+Icon=se.danielnylander.meningsbyggaren
+Type=Application
+Categories=Education;Accessibility;
