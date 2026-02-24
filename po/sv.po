@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: meningsbyggaren\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:18+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:22+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305240/sv/)\n"
@@ -149,26 +149,38 @@ msgstr "hungrig"
 msgid "thirsty"
 msgstr "törstig"
 
-#: src/meningsbyggaren/main.py:31 src/meningsbyggaren/main.py:139
+#: src/meningsbyggaren/main.py:31 src/meningsbyggaren/main.py:198
+msgid "Sentence Builder"
+msgstr "Meningsbyggaren"
+
+#: src/meningsbyggaren/main.py:46
 msgid "Meningsbyggaren"
 msgstr "Meningsbyggaren"
 
-#: src/meningsbyggaren/main.py:38 src/meningsbyggaren/main.py:100
+#: src/meningsbyggaren/main.py:52 src/meningsbyggaren/main.py:114
 msgid "Clear"
 msgstr "Töm"
 
-#: src/meningsbyggaren/main.py:39
+#: src/meningsbyggaren/main.py:53
 msgid "About"
 msgstr "Om"
 
-#: src/meningsbyggaren/main.py:51 src/meningsbyggaren/main.py:126
+#: src/meningsbyggaren/main.py:65 src/meningsbyggaren/main.py:140
 msgid "Tap words to build a sentence"
 msgstr "Tryck på ord för att bygga en mening"
 
-#: src/meningsbyggaren/main.py:95
+#: src/meningsbyggaren/main.py:109
 msgid "Undo"
 msgstr "Ångra"
 
-#: src/meningsbyggaren/main.py:143
+#: src/meningsbyggaren/main.py:173
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/meningsbyggaren/main.py:202
 msgid "Build sentences with word cards"
 msgstr "Bygg meningar med ordkort"
+
+#: src/meningsbyggaren/main.py:204
+msgid "Thanks to"
+msgstr "Tack till"
